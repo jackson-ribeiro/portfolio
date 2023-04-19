@@ -15,7 +15,7 @@ const Header = () => {
           podemos trabalhar juntos.
         </p>
         <div className="header_cta">
-          <a href="#contato" className='btn primary'>Contato</a>
+          <a href="#contact" className='btn primary'>Contato</a>
           <a href="#portfolio" className='btn light'>Meus Projetos</a>
         </div>
         <div className="header_socials">
