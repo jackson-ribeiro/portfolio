@@ -67,3 +67,24 @@ header {
         height: 100vh;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .header_profile {
+        width: 14rem;
+        height: 17rem;
+        max-width: 60%;
+        max-height: 35vh;
+    }
+
+    .header_container p {
+        width: 100%;
+    }
+
+    .header_cta {
+        gap: 1rem;
+    }
+    
+    .header_socials {
+        display: none;
+    }
+}
